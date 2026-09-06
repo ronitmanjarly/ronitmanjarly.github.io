@@ -1,0 +1,312 @@
+[
+  {
+    "id": "up-revelation-branding",
+    "title": "Up Revelation \u2014 Brand Identity & Corporate Stationery",
+    "category": "branding",
+    "categoryName": "Brand Identity",
+    "badge": "Featured Identity",
+    "description": "Comprehensive visual identity system for Up Revelation travel agency, featuring dynamic modern monogram logos, luxury embossed business cards, stationery, garment tags, and employee badges.",
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Branding Strategy"
+    ],
+    "cover": "assets/portfolio/logo_1.webp",
+    "coverThumb": "assets/portfolio/logo_1_thumb.webp",
+    "coverJpg": "assets/portfolio/logo_1.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/logo_1.webp",
+        "caption": "Up Revelation Primary Wordmark & Emblem"
+      },
+      {
+        "src": "assets/portfolio/logo_2.webp",
+        "caption": "Up Revelation Emblem Silhouette"
+      },
+      {
+        "src": "assets/portfolio/logo_3.webp",
+        "caption": "Logo Variations & Geometry Guides"
+      },
+      {
+        "src": "assets/portfolio/business_card_mockup_2.webp",
+        "caption": "Embossed Luxury Business Cards"
+      },
+      {
+        "src": "assets/portfolio/business_card_mockup_3.webp",
+        "caption": "Floating Stationery Card Suite"
+      },
+      {
+        "src": "assets/portfolio/free_business_card_mockup_1.webp",
+        "caption": "Textured Foil Business Card"
+      },
+      {
+        "src": "assets/portfolio/free_business_card_mockup_2.webp",
+        "caption": "Vertical Executive Card"
+      },
+      {
+        "src": "assets/portfolio/cloth_tag_mockup_1.webp",
+        "caption": "Apparel Brand Hang Tag"
+      },
+      {
+        "src": "assets/portfolio/cloth_tag_mockup_2.webp",
+        "caption": "Organic Fabric Garment Tag"
+      },
+      {
+        "src": "assets/portfolio/envelope_mockup_1.webp",
+        "caption": "Corporate Stationery & Envelope Mockup"
+      },
+      {
+        "src": "assets/portfolio/plastic_id_card_mockup_22.webp",
+        "caption": "Employee Identification Badge"
+      }
+    ],
+    "year": "2026",
+    "client": "Up Revelation Travel Agency",
+    "role": "Lead Brand Designer"
+  },
+  {
+    "id": "amul-cheese-packaging",
+    "title": "Amul Pure Cheese \u2014 Packaging Architecture & 3D Prototyping",
+    "category": "packaging",
+    "categoryName": "Packaging & 3D",
+    "badge": "Industrial & FMCG",
+    "description": "End-to-end commercial packaging design for Amul Cheese: from technical vector dielines with accurate bleed, folding flaps, and regulatory nutrition panels to realistic 3D corrugated mailer boxes and master shipping cartons.",
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "3Ds Max",
+      "Dieline Engineering"
+    ],
+    "cover": "assets/portfolio/mailer_box_mockup_1.webp",
+    "coverThumb": "assets/portfolio/mailer_box_mockup_1_thumb.webp",
+    "coverJpg": "assets/portfolio/mailer_box_mockup_1.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/mailer_box_mockup_1.webp",
+        "caption": "Amul Cheese Corrugated Mailer Box (Isometric)"
+      },
+      {
+        "src": "assets/portfolio/mailer_box_mockup_2.webp",
+        "caption": "Front Elevation & Custom Locking Tabs"
+      },
+      {
+        "src": "assets/portfolio/taped_cardboard_box_mockup_3.webp",
+        "caption": "Master Shipping Carton with Branded Packing Tape"
+      },
+      {
+        "src": "assets/portfolio/packeging_design.webp",
+        "caption": "Technical Dieline Vector & Nutrition Specification"
+      }
+    ],
+    "year": "2025",
+    "client": "FMCG Dairy Packaging Concept",
+    "role": "Packaging & 3D Visualist"
+  },
+  {
+    "id": "kali-yuga-editorial",
+    "title": "Kali-Yuga \u2014 Hardcover Book & Editorial Spreads",
+    "category": "editorial",
+    "categoryName": "Editorial & Books",
+    "badge": "Publication Design",
+    "description": "Artistic book design exploring ancient mythological chronicles through a modern lens. Features bespoke hardcover dust jackets, silver/dark foil typography, and refined double-page interior typographic spreads.",
+    "tools": [
+      "Adobe InDesign",
+      "Adobe Photoshop",
+      "Editorial Grid Systems",
+      "Prepress"
+    ],
+    "cover": "assets/portfolio/book_mockup_1.webp",
+    "coverThumb": "assets/portfolio/book_mockup_1_thumb.webp",
+    "coverJpg": "assets/portfolio/book_mockup_1.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/book_mockup_1.webp",
+        "caption": "Hardcover Perspective & Spine Art"
+      },
+      {
+        "src": "assets/portfolio/book_mockup_2.webp",
+        "caption": "Typographic Title Page & Chapter Opening"
+      },
+      {
+        "src": "assets/portfolio/book_mockup_3.webp",
+        "caption": "Editorial Double Spread & Visual Hierarchy"
+      },
+      {
+        "src": "assets/portfolio/book_mockup_5.webp",
+        "caption": "Minimalist Dark Foil Embossed Cover"
+      },
+      {
+        "src": "assets/portfolio/book_mockup_6.webp",
+        "caption": "Inner Page Layout & Column Proportions"
+      }
+    ],
+    "year": "2025",
+    "client": "Literary Publication Project",
+    "role": "Editorial Designer & Typographer"
+  },
+  {
+    "id": "be-cool-poster",
+    "title": "\u201cBE COOL\u201d \u2014 Liquid Pop-Art Chromatic Typography",
+    "category": "posters",
+    "categoryName": "Posters & Art",
+    "badge": "Art Direction",
+    "description": "Vibrant visual exploration combining liquid fluid lettering, iridescent chrome refractions, and high-energy pop-art palette. Designed as a high-impact exhibition poster.",
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Custom Typography"
+    ],
+    "cover": "assets/portfolio/pster.webp",
+    "coverThumb": "assets/portfolio/pster_thumb.webp",
+    "coverJpg": "assets/portfolio/pster.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/pster.webp",
+        "caption": "BE COOL \u2014 Fluid Chromatic Lettering Poster"
+      }
+    ],
+    "year": "2024",
+    "client": "Visual Exploration Series",
+    "role": "Art Director & Typographer"
+  },
+  {
+    "id": "soul-double-exposure",
+    "title": "\u201cSOUL\u201d \u2014 Surrealist Silhouette & Double Exposure Poster",
+    "category": "posters",
+    "categoryName": "Posters & Art",
+    "badge": "Fine Art Poster",
+    "description": "Cinematic key visual blending human introspection with towering natural landscapes through layered double-exposure photography, ambient mist, and stark evocative typography.",
+    "tools": [
+      "Adobe Photoshop",
+      "Matte Painting",
+      "Composition"
+    ],
+    "cover": "assets/portfolio/soul.webp",
+    "coverThumb": "assets/portfolio/soul_thumb.webp",
+    "coverJpg": "assets/portfolio/soul.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/soul.webp",
+        "caption": "SOUL \u2014 Surreal Landscape Double Exposure Poster"
+      }
+    ],
+    "year": "2024",
+    "client": "Cinematic Conceptual Art",
+    "role": "Digital Artist"
+  },
+  {
+    "id": "citrus-orange-juice",
+    "title": "Pure Citrus Orange Juice \u2014 Beverage Packaging & Dieline",
+    "category": "packaging",
+    "categoryName": "Packaging & 3D",
+    "badge": "Beverage Branding",
+    "description": "Fresh cold-pressed orange juice glass bottle packaging featuring crisp fruit vector illustrations, vibrant sun-kissed palette, and complete nutritional label layout.",
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Product Visualization"
+    ],
+    "cover": "assets/portfolio/orange_juice_bottle_mockup_3_bott.webp",
+    "coverThumb": "assets/portfolio/orange_juice_bottle_mockup_3_bott_thumb.webp",
+    "coverJpg": "assets/portfolio/orange_juice_bottle_mockup_3_bott.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/orange_juice_bottle_mockup_3_bott.webp",
+        "caption": "Cold Glass Bottle Mockup with Condensation"
+      },
+      {
+        "src": "assets/portfolio/pa2.webp",
+        "caption": "Technical Label Dieline & Nutrition Information Artwork"
+      }
+    ],
+    "year": "2025",
+    "client": "Citrus Beverage Co.",
+    "role": "Packaging Designer"
+  },
+  {
+    "id": "fanta-citrus-campaign",
+    "title": "Fanta Citrus Blast \u2014 Commercial Advertising Campaign",
+    "category": "advertising",
+    "categoryName": "Commercial & Motion",
+    "badge": "Ad Campaign",
+    "description": "High-octane commercial print and digital campaign visuals for Fanta. Highlighting refreshing liquid splashes, floating orange slices, dynamic kinetic typography, and playful beverage energy.",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Campaign Art Direction"
+    ],
+    "cover": "assets/portfolio/test1.webp",
+    "coverThumb": "assets/portfolio/test1_thumb.webp",
+    "coverJpg": "assets/portfolio/test1.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/test1.webp",
+        "caption": "Fanta Citrus \u2014 Burst of Refreshment Splash Campaign"
+      },
+      {
+        "src": "assets/portfolio/test2.webp",
+        "caption": "\u201cWanta Fanta?\u201d Kinetic Liquid Fruit Blast Ad"
+      },
+      {
+        "src": "assets/portfolio/test_3.webp",
+        "caption": "Fanta Can Splash & Ice Shards Campaign Visual"
+      }
+    ],
+    "year": "2026",
+    "client": "Beverage Ad Concept (M.A.D Comm)",
+    "role": "Visual Campaign Designer"
+  },
+  {
+    "id": "fathers-day-tribute",
+    "title": "Manjarly Studio \u2014 Father\u2019s Day Editorial Tribute",
+    "category": "posters",
+    "categoryName": "Posters & Art",
+    "badge": "Editorial Graphic",
+    "description": "Warm typographic tribute card celebrating paternal dedication, combining golden sunrise tones, heartfelt typography, and clean geometric framing.",
+    "tools": [
+      "Adobe Illustrator",
+      "Typography Design"
+    ],
+    "cover": "assets/portfolio/fd11.webp",
+    "coverThumb": "assets/portfolio/fd11_thumb.webp",
+    "coverJpg": "assets/portfolio/fd11.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/fd11.webp",
+        "caption": "Father\u2019s Day Tribute Artwork"
+      }
+    ],
+    "year": "2024",
+    "client": "Manjarly Studio",
+    "role": "Typographer & Designer"
+  },
+  {
+    "id": "spain-panos-id",
+    "title": "SpainPa\u00f1os \u2014 Corporate Badge & Credential System",
+    "category": "branding",
+    "categoryName": "Brand Identity",
+    "badge": "Corporate Identity",
+    "description": "Security ID credentials and lanyard badge design for SpainPa\u00f1os, engineered with clean modern corporate typography, distinct team color bands, and crisp brand emblem.",
+    "tools": [
+      "Adobe InDesign",
+      "Adobe Illustrator",
+      "Print Production"
+    ],
+    "cover": "assets/portfolio/id_card_2.webp",
+    "coverThumb": "assets/portfolio/id_card_2_thumb.webp",
+    "coverJpg": "assets/portfolio/id_card_2.jpg",
+    "gallery": [
+      {
+        "src": "assets/portfolio/id_card_2.webp",
+        "caption": "SpainPa\u00f1os Employee Lanyard ID Badge"
+      },
+      {
+        "src": "assets/portfolio/plastic_id_card_mockup_22.webp",
+        "caption": "Plastic Proximity Access Card"
+      }
+    ],
+    "year": "2024",
+    "client": "SpainPaños Corporate",
+    "role": "Identity Specialist"
+  }
+]
